@@ -4,4 +4,14 @@
 
 folder/
 
----images
+___images
+
+___labels
+
+folder/
+
+___train
+
+______images
+
+______labels

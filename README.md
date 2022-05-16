@@ -2,7 +2,7 @@
 
 main_directory/
 
-...images/
+_images/
 
 ......image_1.jpg
 

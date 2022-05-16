@@ -1,5 +1,7 @@
 # Train test split yolov5 data
 
+FROM: _______________________________
+
 folder/
 
 ___images/
@@ -13,6 +15,9 @@ ___labels
 ______label_1.txt
 
 ______label_2.txt
+
+TO: _______________________________
+
 
 folder/
 
